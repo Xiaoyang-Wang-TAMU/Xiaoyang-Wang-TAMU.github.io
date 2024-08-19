@@ -34,7 +34,7 @@ profiles:
     url: 'wangxy@tamu.edu'
     label: E-mail Me
   - icon: brands/github
-    url: [Xiaoyang-Wang.github](https://github.com/Xiaoyang-Wang-TAMU)
+    url: https://github.com/Xiaoyang-Wang-TAMU
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/%E6%99%93%E9%98%B3-%E7%8E%8B-6a8596323/
 
