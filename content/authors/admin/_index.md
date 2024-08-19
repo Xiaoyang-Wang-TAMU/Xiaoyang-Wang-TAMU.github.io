@@ -48,7 +48,7 @@ education:
     institution: Texas A&M University
     date_start: 2024-08-19
     date_end: 
-    summary: |
+    summary: 
 
     button:
       text: 'Read Thesis'
@@ -57,7 +57,7 @@ education:
     institution: Xi'an Jiaotong University
     date_start: 2021-09
     date_end: 2024-06
-    summary: |
+    summary: 
       GPA: 3.64/4.0
 
       Courses included:
@@ -68,7 +68,7 @@ education:
     institution:  Xi'an Jiaotong University
     date_start: 2017-09
     date_end: 2021-06
-    summary: |
+    summary: 
       GPA: 3.87/4.3
       
       Courses included:
