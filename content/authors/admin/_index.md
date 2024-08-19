@@ -47,16 +47,9 @@ education:
   - area: PhD Electrical Engineering
     institution: Texas A&M University
 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: MEng Electrical Engineering
     institution: Xi'an Jiaotong University
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Electrical Engineering
     institution:  Xi'an Jiaotong University
       
