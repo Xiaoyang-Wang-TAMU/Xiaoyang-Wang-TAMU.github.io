@@ -46,13 +46,16 @@ interests:
 education:
   - area: PhD Electrical Engineering
     institution: Texas A&M University
-
+    date_start: 2024-08-01
+    date_end: ''
   - area: MEng Electrical Engineering
     institution: Xi'an Jiaotong University
-
+    date_start: 2021-09-01
+    date_end: 2024-06-01
   - area: BSc Electrical Engineering
     institution:  Xi'an Jiaotong University
-      
+    date_start: 2017-08-01
+    date_end: 2021-06-01
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
