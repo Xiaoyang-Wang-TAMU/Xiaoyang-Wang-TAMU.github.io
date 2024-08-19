@@ -46,19 +46,12 @@ interests:
 education:
   - area: PhD Electrical Engineering
     institution: Texas A&M University
-    date_start: 2024-08-19
-    date_end: 
-    summary: 
 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MEng Electrical Engineering
     institution: Xi'an Jiaotong University
-    date_start: 2021-09-01
-    date_end: 2024-06-01
-    summary: 
-      GPA: 3.64/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -66,15 +59,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Electrical Engineering
     institution:  Xi'an Jiaotong University
-    date_start: 2017-09
-    date_end: 2021-06
-    summary: 
-      GPA: 3.87/4.3
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
