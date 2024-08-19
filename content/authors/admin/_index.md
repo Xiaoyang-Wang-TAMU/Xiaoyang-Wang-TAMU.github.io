@@ -54,7 +54,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MEng Electrical Engineering
-  - institution: Xi'an Jiaotong University
+    institution: Xi'an Jiaotong University
     date_start: 2021-09
     date_end: 2024-06
     summary: |
